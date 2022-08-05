@@ -2,9 +2,11 @@
 
 Challenge:
 
-web-version of the mobile app.
+Web-version of the mobile app.
 
 [Mobile Apps](https://github.com/ArthurDias01/Mobile-Apps-Alluagro)
+
+Direct Link to the App: [Alluagro Web App](https://alluagroweb.vercel.app/)
 
 ## Used Tech
 - [x] TypeScript
@@ -30,19 +32,7 @@ web-version of the mobile app.
 
 ## Preview
 
-<div class="row">
-  <img width="450" src="https://github.com/ArthurDias01/Mobile-Apps-Alluagro/blob/main/mobile_1.png" alt="mobile_1"/>
-  <img width="450" src="https://github.com/ArthurDias01/Mobile-Apps-Alluagro/blob/main/mobile_2.png" alt="mobile_2"/>
-</div>
+<img width="650" src="https://github.com/ArthurDias01/Web-App-Alluagro/blob/main/web_1.png" alt="web_1"/>
 
-<div class="row">
-  <img width="450" src="https://github.com/ArthurDias01/Mobile-Apps-Alluagro/blob/main/mobile_3.png" alt="mobile_3"/>
-  <img width="450" src="https://github.com/ArthurDias01/Mobile-Apps-Alluagro/blob/main/mobile_4.png" alt="mobile_4"/>
-</div>
-
-<div class="row">
-  <img width="450" src="https://github.com/ArthurDias01/Mobile-Apps-Alluagro/blob/main/mobile_5.png" alt="mobile_5"/>
-  <img width="450" src="https://github.com/ArthurDias01/Mobile-Apps-Alluagro/blob/main/ios_1.png" alt="mobile_6"/>
-</div>
 
 
